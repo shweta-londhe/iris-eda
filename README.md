@@ -6,7 +6,7 @@ I performed a complete Exploratory Data Analysis (EDA) on the famous **Iris data
 ---
 
 ## 📂 Project Structure
-
+```
 iris-eda/
 │
 ├── notebooks/
@@ -16,7 +16,7 @@ iris-eda/
 ├── iris.csv
 ├── requirements.txt
 └── README.md
-
+```
 ## 🔍 What I Did in This Project
 
 ### ✔ Loaded and explored the dataset  
