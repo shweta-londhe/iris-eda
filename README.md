@@ -11,8 +11,7 @@ iris-eda/
 │
 ├── notebooks/
 │ ├── iris_eda.ipynb
-│ ├── iris_analysis.ipynb
-│ └── iris_charts.ipynb
+│ └── iris_analysis.ipynb
 │
 ├── iris.csv
 ├── requirements.txt
